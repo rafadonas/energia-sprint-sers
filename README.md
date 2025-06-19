@@ -4,6 +4,10 @@ O objetivo do projeto é integrar a geração de energia solar com automação r
 
 ---
 
+## 🔗 Links Importantes
+- [Video no Youtube] (https://https://youtu.be/KuRfs9It7Sw?si=kIkf26J1e0qntrxT)
+- [Github] (https://https://github.com/rafadonas/energia-sprint-sers)
+
 ## 🎯 Objetivo do Sistema
 
 - Monitorar a geração e consumo de energia (via sensores e ESP32);
